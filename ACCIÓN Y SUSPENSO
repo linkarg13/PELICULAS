@@ -1,5 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/el-justiciero.jpg"group-title="",El Justiciero 1
+https://pc-35.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/e245bcec292b1777b7e744068011a131/EP.0.2.v0.1676560992.360.m3u8
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/el-justiciero-2.jpg"group-title="",El Justiciero 2
+https://pc-13.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/8862583aa48415f04821093f728347e4/EP.0.1.v0.1677670363.360.m3u8
 
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/mision-imposible.jpg"group-title="",misión imposible 
 https://pc-05.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/64dbed26bf981fcabaeb8e44761eade4/EP.0.1.v0.1677988882.360.m3u8
