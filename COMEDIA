@@ -1,5 +1,9 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/equipo-paranormal.jpg"group-title="",Equipo Paranormal
+https://pc-33.mxcdnab.online/newhls/28d97a4f188ae500864a446183835243/EP.0.1.v0.1677411664.720.m3u8
+
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/y-donde-esta-el-fantasma.jpg"group-title="",¿Y Dónde Está El Fantasma?
 https://pc-21.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/807c45fe675fb73c7c6d91bb6e50c189/EP.0.1.v3.1677487830.360.m3u8
 
