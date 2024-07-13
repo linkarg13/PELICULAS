@@ -1,4 +1,4 @@
-"#EXTM3U
+#EXTM3U
 
 
 
@@ -60,6 +60,9 @@ https://archive.org/download/f3lic1d4d3s/f3lic1d4d3s.mp4
 
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/gJEpEp0oE7osryIExZgCtyiUtJb.jpg"group-title="",pizza,birra y fazo (1998)
 https://archive.org/download/piz4birr4yf4s0/piz4birr4yf4s0.mp4
+
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/6o179fYGgnwcZRZeXtqnjtFqkBZ.jpg"group-title="",fuga de cerebros (1998)
+https://archive.org/download/fug4d3c3r3br0/fug4d3c3r3br0.mp4
 
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/xy7r1aQMNiwt9TX8SPM7jsa0mK4.jpg"group-title="", comodines (1997)
 https://archive.org/download/c-0m-0d-1n-3s/C0m0d1n3s.mp4
